@@ -1,0 +1,26 @@
+{
+  "name": "tf-command",
+  "version": "0.0.2",
+  "description": "tf command for TFVS based on TEE-CLC",
+  "main": "./dist/index.js",
+  "files": ["dist/"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritmos/tf-command"
+  },
+  "keywords": [
+    "tf",
+    "tfs",
+    "TFVS",
+    "Team Foundation Server",
+    "cli",
+    "command line",
+    "wrapper",
+    "TFS",
+    "Azure",
+    "Azure pipelines",
+    "devops"
+  ],
+  "author": "ritmos",
+  "license": "GPL-3.0"
+}
